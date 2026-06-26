@@ -20,8 +20,6 @@ Full-stack software developer, entrepreneur, and aspiring game developer based i
 
 ## Technologies & Tools
 
-## Professional Development
-
 ### Backend & Web
 `Ruby on Rails` `REST APIs` `Node.js` `Next.js`
 
