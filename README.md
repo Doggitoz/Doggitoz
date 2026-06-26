@@ -20,19 +20,19 @@ Full-stack software developer, entrepreneur, and aspiring game developer based i
 
 ## Technologies & Tools
 
-### Professional Development
+## Professional Development
 
-#### Backend & Web
+### Backend & Web
 `Ruby on Rails` `REST APIs` `Node.js` `Next.js`
 
-#### Frontend
+### Frontend
 `React` `React Native` `Expo` `TypeScript` `JavaScript`
 
-#### Databases & Cloud
+### Databases & Cloud
 `PostgreSQL` `Supabase` `MongoDB Atlas` `Mongoose ODM`
 `AWS Lambda` `AWS S3`
 
-#### DevOps & Deployment
+### DevOps & Deployment
 `Docker` `Git` `Vercel`
 
 ---
